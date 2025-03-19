@@ -1,2 +1,9 @@
-# Programming-Tutor-ReDi-School-Spring-2024
-I taught Python and Data Analytics at ReDi School of Digital Integration in Düsseldorf during the Spring 2024 term.
+### Certificates of Volunteer Appreciation, Spring 2024, ReDi School of Digital Integration, Düsseldorf, NRW
+
+![](https://github.com/dhananjayjm/Programming-Tutor-ReDi-School-Spring-2024/blob/main/Python_July_2024.png)
+
+----
+
+![](https://github.com/dhananjayjm/Programming-Tutor-ReDi-School-Spring-2024/blob/main/DA_July_2024.png)
+
+----
